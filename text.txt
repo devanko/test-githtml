@@ -4,3 +4,4 @@ bienvenu à tous
 
 hello
 je pense que le problème est resolu
+alors essayons avec git push sans les option
